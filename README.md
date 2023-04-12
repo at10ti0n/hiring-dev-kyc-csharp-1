@@ -36,7 +36,7 @@ dotnet build
 dotnet test
 ```
 
-## Run the Application
+## Run the Application 🚀
 
 To understand how this library would be used you can check the  `KYCSampleApp` class. If you want to see the results, run:
 
